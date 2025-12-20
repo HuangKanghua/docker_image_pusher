@@ -1,2 +1,2 @@
 ebzz/vxbot:latest
-docker-llob:latest
+dockerguiimages/docker-llob:latest
