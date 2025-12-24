@@ -3,5 +3,7 @@ dockerguiimages/docker-llob:latest
 linyuchen/llbot:latest
 linyuchen/pmhq:latest
 mysql:5.7.44
+mysql:8.0
 Redis:5.0.8
+
 
