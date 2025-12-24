@@ -2,3 +2,6 @@ ebzz/vxbot:latest
 dockerguiimages/docker-llob:latest
 linyuchen/llbot:latest
 linyuchen/pmhq:latest
+mysql:5.7.44
+Redis:5.0.8
+
