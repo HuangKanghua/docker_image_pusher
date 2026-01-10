@@ -9,3 +9,4 @@ library/php:8.1-cli
 library/nginx:1.25-alpine
 library/node:18-alpine
 ollama/ollama
+python:3.11-slim
