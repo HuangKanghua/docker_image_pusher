@@ -10,3 +10,4 @@ library/nginx:1.25-alpine
 library/node:18-alpine
 ollama/ollama
 python:3.11-slim
+docker/dockerfile:1.4
