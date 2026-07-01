@@ -1,4 +1,3 @@
-yangjichang-server
 tonistiigi/binfmt
 moby/buildkit:buildx-stable-1
 ebzz/vxbot:latest
