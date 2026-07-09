@@ -1,1 +1,1 @@
-library/golang:alpine
+initialencounter/llonebot
